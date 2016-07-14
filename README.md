@@ -1,2 +1,2 @@
 # hello-world
-start with tradition 
+start with hello world!
